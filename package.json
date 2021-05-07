@@ -1,0 +1,23 @@
+{
+    "name": "juno-pale-cybernight",
+    "displayName": "Juno pale cybernight",
+    "description": "A theme based on Juno Palenight with some outrun-ish accents",
+    "publisher": "DanielHouston",
+    "keywords": ["Juno", "Dark", "Outrun"],
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Juno Pale Cybernight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Juno Pale Cybernight-color-theme.json"
+            }
+        ]
+    }
+}
