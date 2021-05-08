@@ -4,7 +4,7 @@
     "description": "A theme based on Juno Palenight with some outrun-ish accents",
     "publisher": "DanielHouston",
     "keywords": ["Juno", "Dark", "Outrun"],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/DanielHouston/JunoCybernightVSCode",
     "engines": {
         "vscode": "^1.56.0"
