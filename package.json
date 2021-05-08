@@ -5,6 +5,7 @@
     "publisher": "DanielHouston",
     "keywords": ["Juno", "Dark", "Outrun"],
     "version": "0.0.1",
+    "repository": "https://github.com/DanielHouston/JunoCybernightVSCode",
     "engines": {
         "vscode": "^1.56.0"
     },
